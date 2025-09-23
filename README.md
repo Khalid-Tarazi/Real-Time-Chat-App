@@ -21,6 +21,9 @@ Built with modern web technologies for seamless communication.
 
 ---
 
+<img width="1919" height="948" alt="screenshot1" src="https://github.com/user-attachments/assets/779d0a76-d5cb-4d21-8c6d-b1944dbc0794" />
+
+
 ## 📦 Installation
 
 1. Clone the repository:

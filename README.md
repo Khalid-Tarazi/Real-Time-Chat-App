@@ -16,7 +16,7 @@ Built with modern web technologies for seamless communication.
 
 ## 🛠️ Tech Stack
 - **Frontend (client-side):** Thymeleaf, javascript (ES6), SockJS, STOMP.js, Html/CSS, Bootstrap
-- **Backend (server-side):** spring boot, spring boot webSocket, spring messaging (STOMP protocol)
+- **Backend (server-side):** Java, spring boot, spring boot webSocket, spring messaging (STOMP protocol)
 - **Development and infrastructure tools:** Maven/Gradle, Intellij (IDE)
 
 ---

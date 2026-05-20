@@ -18,12 +18,12 @@
     <div class="card shadow-lg w-100" style="max-width: 800px;">
 
         <div class="card-header text-center bg-primary text-white">
-            <h5 class="mb-0">💬 Real-Time Chat</h5>
+            <h5 class="mb-0">Real-Time Chat Application</h5>
             <small>Connected users can chat in real-time</small>
         </div>
 
         <div id="chat" class="card-body overflow-auto bg-light" style="height: 400px;">
-
+        <!--  empty space where the msgs will appear later-->
         </div>
 
         <div class="card-footer">
@@ -82,7 +82,7 @@
         })[m];
       });
     }
-  
+
     function showMessage(message) {
       var chat = document.getElementById('chat');
       var messageElement = document.createElement('div');

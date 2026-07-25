@@ -5,7 +5,7 @@ Built with modern web technologies for seamless communication.
 
 ---
 
-## 🚀 Features
+## Features
 - Real-time messaging between users  
 - User-friendly and responsive UI (Bootstrap/Custom CSS)  
 - Multiple chat rooms / channels support  
@@ -14,7 +14,7 @@ Built with modern web technologies for seamless communication.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Frontend (client-side):** Thymeleaf, javascript (ES6), SockJS, STOMP.js, Html/CSS, Bootstrap
 - **Backend (server-side):** Java, spring boot, spring boot webSocket, spring messaging (STOMP protocol)
 - **Development and infrastructure tools:** Maven/Gradle, Intellij (IDE)
@@ -24,7 +24,7 @@ Built with modern web technologies for seamless communication.
 <img width="1919" height="948" alt="screenshot1" src="https://github.com/user-attachments/assets/779d0a76-d5cb-4d21-8c6d-b1944dbc0794" />
 
 
-## 📦 Installation
+## Installation
 
 1. Clone the repository:
    ```bash
